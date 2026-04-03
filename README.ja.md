@@ -46,7 +46,4 @@
 
 ---
 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreSag&show_icons=true&theme=radium&hide_border=true&bg_color=1b1b1b&title_color=61DAFB&text_color=ffffff" alt="AlexandreSag の GitHub ステータス" />
-</p>
+
